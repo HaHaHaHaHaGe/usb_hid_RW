@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
-  usb_test.cpp
-  usb_test.vcxproj -> C:\Users\GE75\Desktop\usb_test\usb_test\usb_test\..\..\build\bin\usb_test.exe
